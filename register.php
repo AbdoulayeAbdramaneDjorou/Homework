@@ -35,7 +35,7 @@
         if (empty($errors)) {
             // Database connection details
             $servername = "localhost";
-            $username = "route";
+            $username = "root";
             $password = "";
             $dbname = "register";
 
